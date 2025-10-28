@@ -1,0 +1,6 @@
+codigo,nome,compra,desp_add,margem_desejada_pct,preco_final,categoria,obs
+789011,Café Premium 250g,15.50,0.50,40,0,Bebidas,
+789012,Chá Gelado (lata),3.50,0.10,35,0,Bebidas,
+789013,Barra de Cereal Gourmet,4.80,0.20,45,0,Alimentos,
+789014,Água Mineral 500ml,1.00,0.05,50,0,Bebidas,
+789015,Suco Natural 300ml,6.00,0.30,40,0,Bebidas,
